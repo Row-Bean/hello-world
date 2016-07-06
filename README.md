@@ -1,2 +1,3 @@
 # hello-world
-Experimental repository
+
+Don't mind me, I'm just running through the tutorial.
